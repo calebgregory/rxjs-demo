@@ -1,0 +1,10 @@
+{
+  "name": "rxjs-demo",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "calebgregory@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^6.6.6"
+  }
+}
